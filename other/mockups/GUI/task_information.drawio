@@ -1,0 +1,123 @@
+<mxfile host="Electron" modified="2025-05-03T15:04:16.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Nc2i9eLceCN0mJ-80etx" version="23.1.5" type="device">
+  <diagram name="Page-1" id="_UFUMPKceEvQsOF68hQk">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-9" value="z" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="80" width="960" height="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry y="200" width="960" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry width="960" height="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-3" value="https://www.example.com/tasks?taskId=1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="130" y="60" width="290" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-4" value="Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry y="110" width="960" height="90" as="geometry" />
+        </mxCell>
+        <UserObject label="Navigation Links" placeholders="1" name="Variable" id="cJd1_DZUtmWKSJbDfYbT-5">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+            <mxGeometry x="800" y="180" width="150" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-8" value="Task Name" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-11" value="Example Task" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="300" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-12" value="Task Information" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="500" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-13" value="Task related information&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="530" width="700" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-23" value="Progress Information" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="880" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-24" value="Task related information&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="910" width="700" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-25" value="Progress Links" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="1080" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-27" value="Add" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="170" y="1085" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-28" value="Update" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="405" y="1260" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-18" value="Add" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="160" y="705" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-15" value="Additional Links" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="700" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-34" value="" style="group" vertex="1" connectable="0" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="730" width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-34">
+          <mxGeometry width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-33" value="Description" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-34">
+          <mxGeometry x="10" y="52" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-17" value="http://example.com" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-34">
+          <mxGeometry x="10" y="15" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-35" value="" style="group" vertex="1" connectable="0" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="1110" width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-35">
+          <mxGeometry width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-37" value="Description" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-35">
+          <mxGeometry x="10" y="52" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-38" value="http://example.com" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-35">
+          <mxGeometry x="10" y="15" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry y="200" width="960" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-44" value="Deadline" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="350" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-45" value="YYYY/MM/DD" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-1">
+          <mxGeometry x="30" y="380" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-7" value="Group 3 : Task 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry x="380" y="210" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-14" value="Back" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry x="30" y="215" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-20" value="YYYY/MM/DD" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry x="30" y="460" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-19" value="Start Date" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry x="30" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-22" value="YYYY/MM/DD" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry x="290" y="460" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-21" value="End Date" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="cJd1_DZUtmWKSJbDfYbT-9">
+          <mxGeometry x="290" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-29" value="&lt;h1&gt;Additional/Progress Links add button&lt;/h1&gt;&lt;p&gt;adds another links section.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;progress can be determined by start date and end date&lt;/p&gt;&lt;p&gt;start date + end date null = incomplete&lt;/p&gt;&lt;p&gt;start date not null + end date null = inprogress&lt;/p&gt;&lt;p&gt;start date + end date not null = completed&lt;/p&gt;&lt;p&gt;start date null + end date not null = invalid&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1460" width="740" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cJd1_DZUtmWKSJbDfYbT-46" value="&lt;h1&gt;Things to consider&lt;/h1&gt;&lt;p&gt;1. edit button which chnages the allows the information to be edited&lt;/p&gt;&lt;p&gt;2. back button at the bottom of the page as well&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1740" width="740" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
