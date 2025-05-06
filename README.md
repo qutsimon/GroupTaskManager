@@ -9,6 +9,7 @@ A group based task management system.
     - tasks completed after generation should should feed automatically into the constructed group
 - tasks filters (user, etc)
 - comments on tasks
+- add UI explainations to the mockups
 
 # Dependencies
 - Production
@@ -33,5 +34,5 @@ A group based task management system.
 # Available pages
 - Task managment page - mockup done
 - Task information page - mockup done
-- User page (shows assigned tasks and deadlines for tasks)
+- User page (shows assigned tasks and deadlines for tasks) - mockup done
 - Group management page -> shows groups managed by user and allows the creation of new groups
