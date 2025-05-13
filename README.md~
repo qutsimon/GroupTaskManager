@@ -11,7 +11,7 @@ A group based task management system.
 - comments on tasks
 - add UI explanations to the mockups
 - group "Things to consider" in the mock ups in a future implementations document
-- Refactor github directories, maybe keep design documents in a separate branch
+- Refactor github directories, maybe keep design documents in a seperate branch
 
 # Dependencies
 - Production
