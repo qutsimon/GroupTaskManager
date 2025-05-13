@@ -36,3 +36,4 @@ A group based task management system.
 - Task information page - mockup done
 - User page (shows assigned tasks and deadlines for tasks) - mockup done
 - Group management page -> shows groups managed by user and allows the creation of new groups
+- Also team management page (organisation page, who can be added to task groups) -> this can be done later since it would be basically the same as the group page
